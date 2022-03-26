@@ -1,0 +1,8 @@
+﻿  Using triplet "x64-windows" from "C:\Users\aleys\vcpkg\installed\x64-windows\"
+  TimePiece.cpp
+  Generating code
+  4 of 390 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Bullet Hell Pattern Maker.vcxproj -> C:\Users\aleys\Desktop\Visual Studio Projects\Bullet-Hell-Story-Game\Bullet Hell Pattern Maker\x64\Release\Bullet Hell Pattern Maker.exe

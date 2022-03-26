@@ -1,0 +1,36 @@
+﻿  Using triplet "x64-windows" from "C:\Users\aleys\vcpkg\installed\x64-windows\"
+  MainScene.cpp
+  SaveAndLoadPatterns.cpp
+C:\Users\aleys\Desktop\Visual Studio Projects\Bullet-Hell-Story-Game\Bullet Hell Pattern Maker\Bullet Hell Pattern Maker\SaveAndLoadPatterns.cpp(57,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\aleys\Desktop\Visual Studio Projects\Bullet-Hell-Story-Game\Bullet Hell Pattern Maker\Bullet Hell Pattern Maker\SaveAndLoadPatterns.cpp(63,62): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\aleys\Desktop\Visual Studio Projects\Bullet-Hell-Story-Game\Bullet Hell Pattern Maker\Bullet Hell Pattern Maker\SaveAndLoadPatterns.cpp(63,39): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\aleys\Desktop\Visual Studio Projects\Bullet-Hell-Story-Game\Bullet Hell Pattern Maker\Bullet Hell Pattern Maker\SaveAndLoadPatterns.cpp(62,62): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\aleys\Desktop\Visual Studio Projects\Bullet-Hell-Story-Game\Bullet Hell Pattern Maker\Bullet Hell Pattern Maker\SaveAndLoadPatterns.cpp(62,39): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\aleys\Desktop\Visual Studio Projects\Bullet-Hell-Story-Game\Bullet Hell Pattern Maker\Bullet Hell Pattern Maker\SaveAndLoadPatterns.cpp(61,62): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\aleys\Desktop\Visual Studio Projects\Bullet-Hell-Story-Game\Bullet Hell Pattern Maker\Bullet Hell Pattern Maker\SaveAndLoadPatterns.cpp(61,39): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  Bullet Hell Pattern Maker.vcxproj -> C:\Users\aleys\Desktop\Visual Studio Projects\Bullet-Hell-Story-Game\Bullet Hell Pattern Maker\x64\Debug\Bullet Hell Pattern Maker.exe
